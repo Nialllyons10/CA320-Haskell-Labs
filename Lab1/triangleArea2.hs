@@ -1,4 +1,5 @@
---Design a Haskell function triangleArea to calculate the area of a triangle given the lengths of its sides and check to see if the given arguments is actually a triangle.
+--Design a Haskell function triangleArea to calculate the area of a triangle given the 
+--lengths of its sides and check to see if the given arguments is actually a triangle.
 
 triangleArea :: Float -> Float -> Float -> Float
 triangleArea a b c
